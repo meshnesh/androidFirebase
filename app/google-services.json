@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "140153195437",
+    "firebase_url": "https://fire-moto.firebaseio.com",
+    "project_id": "fire-moto",
+    "storage_bucket": "fire-moto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140153195437:android:4b27071f992a7381",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140153195437-gvpf6nh8r48j5d779n8hg41qiq1jm4tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZyeWpH97kVxRb64mIi6RjZSB2aX8_xI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
